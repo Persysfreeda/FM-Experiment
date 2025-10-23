@@ -61,6 +61,10 @@ Verify the generated waveform using Tabulation and Model Waveform
 
 MODEL GRAPH:
 
+
+
+
+
 <img width="512" height="365" alt="image" src="https://github.com/user-attachments/assets/acd787bd-5281-4f1b-802f-1aa39fac9189" />
 
 
@@ -94,16 +98,40 @@ title("FM Modulated Signal (USB)");
 ```
 
 Output Waveform
+
+
+
+
 <img width="1711" height="953" alt="image" src="https://github.com/user-attachments/assets/202b57a2-910a-4b44-a9a6-fb23fac442fd" />
 
 Tabulation
 
+
+
+
+
+
 <img width="1150" height="957" alt="image" src="https://github.com/user-attachments/assets/5b00e9b7-c4f0-4485-9b14-6734da9701d1" />
 
+
+
+
+
 Calculation
+
+
+
 <img width="642" height="947" alt="image" src="https://github.com/user-attachments/assets/aa17a64d-0c44-4b8d-84bb-7a08142b7bb7" />
 
+
+
+
+
 <img width="1311" height="957" alt="image" src="https://github.com/user-attachments/assets/e623dc52-e53f-4cb2-b620-9dc2767529fc" />
+
+
+
+
 
 Frequency Deviation Practical = 545.45
 
@@ -115,6 +143,6 @@ Modulation Index Theoretical	= 0.5
 
 RESULT:
 
-Thus, the frequency modulation and demodulation is successfully done and the output is experimentally verified.
+Thus, the frequency modulation and demodulation is successfully done and the output is experimentally verified./>
 
 
