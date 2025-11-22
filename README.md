@@ -143,6 +143,6 @@ Modulation Index Theoretical	= 0.5
 
 RESULT:
 
-Thus, the frequency modulation and demodulation is successfully done and the output is experimentally verified./>
+<img width="1777" height="672" alt="image" src="https://github.com/user-attachments/assets/aa008bb3-dda3-4d14-80ff-b79a14f34f99" />
 
 
